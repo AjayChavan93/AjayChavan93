@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Ajay Chavan</h1>
-<h3 align="center">B.E. Information Technology Student · AI & ML Enthusiast · Web Developer</h3>
+<h3 align="center">B.E. Information Technology Student · Full Stack Web Developer (MERN) </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ajaychavan212/">
